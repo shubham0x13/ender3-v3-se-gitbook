@@ -62,6 +62,7 @@ Once completed you will find klipper.bin file in out folder. Copy it to SD card,
 
 * [xD34D](https://github.com/0xD34D/ender3-v3-se-klipper-config)
 * [bootuz-dinamon](https://github.com/bootuz-dinamon/ender3-v3-se-full-klipper)
+* [shubham0x13](https://github.com/shubham0x13/ender-3-v3-se-klipper)
 
 I recommend using 0xD34D configuration if you use his klipper fork.
 
